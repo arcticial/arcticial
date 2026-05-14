@@ -1,10 +1,11 @@
 ![banner](banner.png)
 
-## I'm sammi
+## I'm sammi!! ˙⋆✮
 - I'm a minor
 - I make art
 - I'm often online on various platforms
 - MC + Roblox
+- I can't dev
 
 
   <div id="badges">
