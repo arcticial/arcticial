@@ -7,7 +7,6 @@
 - MC + Roblox
 - I can't dev
 
-
   <div id="badges">
   <a href="https://www.tiktok.com/@arcticial_">
     <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok" alt="Tiktok Badge"/>
