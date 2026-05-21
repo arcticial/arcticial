@@ -1,4 +1,4 @@
-![banner](redbanner.png)
+![banner](banner.png)
 
 ## I'm sammi!! ˙⋆✮
 ⋆ I'm a minor
