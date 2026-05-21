@@ -1,4 +1,6 @@
-![banner](bannerred.png)
+<div align="center">
+  <img src="bannerred.png" alt="banner"/>
+</div>
 
 ## I'm sammi!! ˙⋆✮
 ⋆ I'm a minor
